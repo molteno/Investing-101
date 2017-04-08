@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Investing 101</string>
+    <string name="header">Invest your knowledge!</string>
+    <string name="explain">Are you ready to invest your hard earned money? Show us what you know!</string>
+    <string name="firstquestion">1) Investing is risky, and a company can go bankrupt. What is the total worth of a company\'s physical assets when it goes out of business</string>
+    <string name="secondquestion">2) You want to buy a company cheap. What ratio tells you how many times earnings are you paying the company</string>
+    <string name="thirdquestion">3) A dollar now is worth more than a dollar in an year. What do you use to value an investemnet?</string>
+    <string name="fourthquestion">4) Debt is dangerous. Which one of the following indicators shows if a company has more debt then it should ?</string>
+    <string name="fifthquestion">5) Your company must be profitable. How can you know that?</string>
+    <string name="sixthquestion">6) Sound difficult, right? What is then historically the most profitable way to invest?</string>
+    <string name="liquidation">Liquidation value</string>
+    <string name="firesale">Firesale value</string>
+    <string name="trashcan">Garbage can value</string>
+    <string name="pe">Price/earnings value</string>
+    <string name="cookies">Cookies in the jar ratio</string>
+    <string name="cashflow">Cash from operations value</string>
+
+    <string name="dcf">Discounted cash flow</string>
+    <string name="fees">Active management fees</string>
+    <string name="savings">Savings account rule</string>
+    <string name="debttoequity">Debt to equity ratio</string>
+    <string name="ceo">CEO annual bonus</string>
+    <string name="salary">Blue collar average salary</string>
+    <string name="stockgrowth">Check the last 12 month stock price</string>
+    <string name="roic">Calculate the return on invested capital</string>
+    <string name="dividend">The future dividend is the most important thing</string>
+    <string name="fund">I\'ll give my money to a fund manager, he knows what to do</string>
+    <string name="cnbc">Stick to investing forum</string>
+    <string name="vanguard">Put your money in a low cost passive index fund and forget about it</string>
+    <string name="button">Check</string>
+    <string name="reset">Try Again!</string>
+    <string name="hint">Enter your name here</string>
+</resources>
